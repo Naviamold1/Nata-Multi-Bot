@@ -152,4 +152,4 @@ async def banned_members(interaction:Interaction,):
 
 
 #connects the script to the discord api, and starts the bot
-client.run(os.getenv("bot_token"))
+client.run(os.getenv("BOT_TOKEN"))
