@@ -20,6 +20,10 @@ python main.py
 
 - Github: [@Nata-the-idiot](https://github.com/Nata-the-idiot)
 
+👤 **Naviamold**
+
+- Github: [@Naviamold](https://github.com/Naviamold1)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Naviamold1/Nata-Multi-Bot/issues).
